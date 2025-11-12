@@ -7,7 +7,8 @@
 ## ✅ Parte 1: Exercícios Básicos (Lógica Pura)
 
 1. **Busca Simples**  
-   Implemente `busca_binaria(lista, alvo)` que retorna o **índice** do `alvo` em `lista` (ordenada), ou `None` se não encontrado.  
+   Implemente `busca_binaria(lista, alvo)` que retorna o **índice** do `alvo` em `lista` (ordenada), 
+   ou `None` se não encontrado.  
    Teste com: `lista = [2, 4, 6, 8, 10]`, alvo = `6` → deve retornar `2`.
 
 2. **Contagem de Iterações**  
